@@ -1,5 +1,5 @@
 def git_clone(){
-    git "https://github.com/MajbriOussema/DevOpsProject"
+    git "'https://github.com/Hamza-t/Devops"
 }
 
 def sonarqube_scan(){
